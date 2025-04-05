@@ -13,3 +13,5 @@ day 3 progress
 <img width="1440" alt="Screenshot 2025-04-02 at 11 53 40 PM" src="https://github.com/user-attachments/assets/7c5b6eb8-d116-485d-b703-3e50d1262dc0" />
 
 day 4 progress
+
+<img width="1440" alt="Screenshot 2025-04-05 at 11 51 29 PM" src="https://github.com/user-attachments/assets/94f8aa1d-d728-4f04-840d-d57a5eefa91a" />
